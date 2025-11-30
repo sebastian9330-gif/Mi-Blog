@@ -32,6 +32,7 @@ def abajo(pasos):
 Ahora la tortuga no solo avanza hacia adelante y abajo sino que da un giro de 90 grados a la derecha formando una forma de L a la inversa.
 
 **Resultado**
+
 <img width="421" height="206" alt="image" src="https://github.com/user-attachments/assets/15d1f87d-ebcc-4230-b950-ce8af0c88a73" />
 
 ---
